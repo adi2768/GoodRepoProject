@@ -1,0 +1,9 @@
+name: SE_HW2b_Group10
+language: python
+python:
+  - 3.6
+  - 3.9
+install:
+  - pip install -r requirement.txt
+script:
+  - pytest test/test_reverse_num.py
