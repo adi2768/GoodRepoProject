@@ -1,2 +1,2 @@
-pillow
-python-csv
+pytest
+flake8
