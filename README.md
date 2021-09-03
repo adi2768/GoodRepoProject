@@ -1,5 +1,5 @@
 [![Build Status](https://app.travis-ci.com/adi2768/GoodRepoProject.svg?branch=main)](https://app.travis-ci.com/github/adi2768/GoodRepoProject/builds/236855252)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/400026490.svg)](https://zenodo.org/badge/latestdoi/400026490)
 
 
