@@ -16,4 +16,4 @@ Program to reverse a number.
 5. Akash Mukesh Sanghani (amsangha@ncsu.edu)
 
 # Version History
-- 1.0.0 - First Release
+- v1.0 - First Release
