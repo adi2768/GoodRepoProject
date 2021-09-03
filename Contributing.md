@@ -6,7 +6,7 @@ We request the users to follow certain code of conduct which we have attached in
 1. Pass all the test cases mentioned in the test.py file.
 2. After making the changes, update the README.md file.
 3. Include all the unnecessary build file in the. gitignore file.
-4. Update the requirements.txt file if there is a new installation dependency.
+4. Update the requirement.txt file if there is a new installation dependency.
 
 # Committing Changes
 1. You must create an issue on the project kanban board.
